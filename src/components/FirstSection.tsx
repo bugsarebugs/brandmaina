@@ -9,7 +9,7 @@ export default function FirstSection(){
                 <button className="rounded-2xl font-bold hover:bg-blue-700 bg-blue-500 p-4 mx-5"><Link href="/men">SHOP MEN</Link></button>
                 <button className="rounded-2xl font-bold bg-gray-400 hover:bg-gray-700 p-4 mx-5"><Link href="/women">SHOP WOMEN</Link></button>
             </div>
-            <div className="absolute inset-0 z-0 bg-[url('/cover.png')] bg-cover bg-center opacity-30"></div>
+            <div  className="absolute inset-0 z-0 bg-[url('/cover.png')] bg-cover bg-center opacity-30"></div>
         </div>
     )
 }

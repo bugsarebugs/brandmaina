@@ -33,10 +33,11 @@ export default function ThirdSection() {
       <div className="lg:w-1/2">
         <Image
           src="/stupid4.jpg"
-          alt="Pisi Kali Here"
+          alt="Msela tu huyu hapa"
           width={500}
           height={500}
           className="rounded-2xl "
+          loading="lazy"
         />
       </div>
     </div>
