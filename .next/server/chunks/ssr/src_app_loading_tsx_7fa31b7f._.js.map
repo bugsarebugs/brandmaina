@@ -1,0 +1,1 @@
+{"version":3,"sources":["turbopack:///[project]/src/app/loading.tsx"],"sourcesContent":["export default function Loading(){\n    return (\n        <div className=\"bg-blue-100 animate-pulse w-dvw h-dvh \">\n\n        </div>\n    )\n}"],"names":[],"mappings":"6EAAe,SAAS,IACpB,MACI,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,CAAI,UAAU,0CAIvB"}

@@ -1,0 +1,184 @@
+{
+    "Products": [
+        {
+            "id": 0,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Male",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg",
+            "label": "new"
+        },
+        {
+            "id": 1,
+            "name": "Shirt Biggy",
+            "price": "45,000/=",
+            "gender": "Male",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid12.jpg",
+            "label": "exclusive"
+        },
+        {
+            "id": 2,
+            "name": "big Sweater",
+            "price": "45,000/=",
+            "gender": "Male",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid3.jpg",
+            "label": "bestseller"
+        },
+        {
+            "id": 3,
+            "name": "HARD on Me",
+            "price": "15,000/=",
+            "gender": "Male",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid4.jpg",
+            "label": "limited"
+        },
+        {
+            "id": 4,
+            "name": "TRENCHES BABY",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid9.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Street LAGAO PANT",
+            "price": "15,000/=",
+            "gender": "Female",
+            "rate": 5,
+            "category": "pant",
+            "size": "2ft 3w",
+            "imurl": "/stupid7.jpg"
+        }
+    ],
+    "Events": [
+        {
+        "name": "Dar es Salaam Fashion Week",
+        "description": "Showcasing our Latest Collect alongside East Africa's finest designers",
+        "date": "April 20-25, 2025",
+        "region": "Dar es Salaam, Tanzania"
+        },
+        {
+        "name": "Dar es Salaam Fashion Week",
+        "description": "Showcasing our Latest Collect alongside East Africa's finest designers",
+        "date": "April 20-25, 2025",
+        "region": "Dar es Salaam, Tanzania"
+        },
+        {
+        "name": "Dar es Salaam Fashion Week",
+        "description": "Showcasing our Latest Collect alongside East Africa's finest designers",
+        "date": "April 20-25, 2025",
+        "region": "Dar es Salaam, Tanzania"
+        },
+        {
+        "name": "Dar es Salaam Fashion Week",
+        "description": "Showcasing our Latest Collect alongside East Africa's finest designers",
+        "date": "April 20-25, 2025",
+        "region": "Dar es Salaam, Tanzania"
+        }
+    ]
+}
