@@ -30,7 +30,7 @@ export default function ThirdSection() {
       </div>
 
       {/* Image */}
-      <div className="p-40 lg:w-100 lg:h-100 rounded-xl bg-[url('https://brandmaina.com/stupid9.png')] bg-center bg-cover ">
+      <div className="p-40 lg:p-50 rounded-xl bg-[url('https://brandmaina.com/stupid9.png')] bg-center bg-cover ">
         
       </div>
     </div>
