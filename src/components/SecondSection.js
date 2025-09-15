@@ -19,7 +19,7 @@ export default function SecondSection() {
 
   return (
     <section className="flex bg-white pb-10 flex-col items-center text-black justify-center px-0">
-      <h1 className="text-6xl font-bold text-black mb-2 pt-10">FEATURED <span className="text-blue-500">PRODUCTS</span> </h1>
+      <h1 className="text-6xl text-center font-bold text-black mb-2 pt-10">FEATURED <span className="text-blue-500">PRODUCTS</span> </h1>
       <p className="text-black mb-6 pb-10">The heritage behind our designs</p>
 
       <div className="flex flex-wrap flex-row justify-center gap-5 lg:gap-10 ">

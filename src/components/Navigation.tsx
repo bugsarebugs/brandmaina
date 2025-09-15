@@ -33,7 +33,7 @@ export default function Navigation(){
     return (
         
         <nav className="flex flex-row text-white align-middle bg-black justify-center gap-10">
-            <span className="bg-[url('https://brandmaina.com/mainalogo.png')] w-20 h-15 bg-center bg-cover">                
+            <span className="bg-[url('https://brandmaina.com/mainalogo.png')] px-30 p-10 bg-center bg-cover">                
             </span>
             <ul className="lg:flex flex-row gap-5 hidden sm:hidden font-bold align-middle self-center-safe">
                 {navigaz.map((navi) => (
