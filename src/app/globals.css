@@ -38,3 +38,26 @@ body {
     transform: translateX(-100%);
   }
 }
+
+.spotlight-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.spotlight-beam {
+  width: 200px;
+  height: 300px;
+  border-radius: 100% / 150%;
+  background: radial-gradient(
+    ellipse at center,
+    rgba(59, 130, 246, 0.6), /* Tailwind blue-500 */
+    rgba(59, 130, 246, 0.15) 60%,
+    transparent 100%
+  );
+  filter: drop-shadow(0 0 15px rgba(59, 130, 246, 0.8));
+  bottom: 30px;
+  pointer-events: none;
+  transition: left 0.15s ease-out;
+  will-change: left;
+  position: absolute;
+}
