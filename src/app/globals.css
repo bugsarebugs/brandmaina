@@ -24,3 +24,17 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.horscroller {
+  white-space: nowrap;
+  animation: horscroll 20s 5s linear infinite;
+}
+
+@keyframes horscroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

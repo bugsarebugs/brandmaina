@@ -2,7 +2,7 @@
 
 import AddToCartButton from "./AddToCartButton";
 import ImageMagnifier from "./ImageMagnifier";
-import { FaStar } from "react-icons/fa";
+import { FaStar, FaHeart } from "react-icons/fa";
 import { useCart } from "@/contexts/CartContext";
 import { useMessage } from "@/contexts/MessageContext";
 import { Products } from "@/static.json"; // Assuming it's default export
@@ -28,9 +28,11 @@ export default function SecondSection() {
             key={product.id}
             className="flex group  flex-col bg-white border-2 border-gray-300 hover:border-blue-500 rounded-lg shadow-md p-1 lg:p-10"
           >
-            <span className="pb-10 group-hover:scale-110 group-hover:scale-x-130 lg:scale-110">
-            <ImageMagnifier src={product.imurl} width={195} height={400}   />
-            </span>
+            <div className="pb-10 relative group-hover:scale-110 group-hover:scale-x-130 lg:scale-110">
+              <ImageMagnifier src={product.imurl} width={195} height={400}   />
+              <span className="absolute top-5 left-1 bg-blue-500 rounded-4xl px-5 w-auto">{product.label}</span>
+              <span className="absolute top-5 right-4">< FaHeart className="text-white" size={20}/></span>
+            </div>
             <h2 className="text-lg font-semibold mt-4">{product.name}</h2>
 
             <div className="flex  justify-between items-center mt-2">
