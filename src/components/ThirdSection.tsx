@@ -30,15 +30,8 @@ export default function ThirdSection() {
       </div>
 
       {/* Image */}
-      <div className="lg:w-1/2">
-        <Image
-          src="https://brandmaina.com/stupid9.png"
-          alt="Msela tu huyu hapa"
-          width={500}
-          height={500}
-          className="rounded-2xl "
-          loading="lazy"
-        />
+      <div className="lg:w-1/2 p-50 rounded-xl bg-[url('https://brandmaina.com/stupid9.png')] bg-center bg-cover object-fill">
+        
       </div>
     </div>
   );
