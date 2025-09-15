@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://brandmaina.com
+
+# Sitemaps
+Sitemap: https://brandmaina.com/sitemap.xml
