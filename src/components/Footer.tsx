@@ -5,7 +5,7 @@ export default function Footer(){
         <div className="flex flex-col items-center-safe p-5 justify-center-safe align-middle self-center-safe">
         <div className="flex  p-10 lg:flex-row sm:flex-col flex-col justify-center gap-10 lg:gap-50 text-white bg-black">
             <div className="flex flex-col">
-                <span className="bg-[url('https://brandmaina.com/mainalogo.png')] w-20 h-15 bg-center bg-cover">
+                <span className="bg-[url('https://brandmaina.com/mainalogo.png')] w-20 h-15 bg-center bg-cover"></span>
                 <p className="w-100">Shop with us and become part of our Family Worldwide. Its A House of More than Fashion Because We Love what we doing</p>  
             </div>
             <div className="flex flex-col">
