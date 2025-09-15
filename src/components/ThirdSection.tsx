@@ -32,7 +32,7 @@ export default function ThirdSection() {
       {/* Image */}
       <div className="lg:w-1/2">
         <Image
-          src="/stupid9.png"
+          src="https://brandmaina.com/stupid9.png"
           alt="Msela tu huyu hapa"
           width={500}
           height={500}
