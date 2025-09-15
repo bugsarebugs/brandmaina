@@ -29,7 +29,7 @@ export default function Footer(){
         </div>
         <div className="flex flex-row items-center pt-5 gap-1 lg:gap-130">
             <p className=" text-sm">&copy;2025 <span className="text-blue-500">MAINA BRAND</span> . Street ANd Western Culture Fashion. </p>
-            <p className="flex flex-row"><span className="text-blue-500 font-bold">JOMAFA</span> done <span className="text-blue-500">!!</span></p>
+            <p className="flex flex-row"><span className="text-blue-500 font-bold">JOMAFA</span> done <span className="text-blue-500"> !!</span></p>
         </div>
             </div>
     )
