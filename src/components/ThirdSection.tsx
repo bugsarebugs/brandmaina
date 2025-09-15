@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function ThirdSection() {
   return (
-    <div className="flex flex-col-reverse lg:flex-row text-black justify-center px-20 lg:px-80 items-center-safe align-middle place-self-center self-center-safe  bg-gray-200 gap-10 lg:gap-50 p-10">
+    <div className="flex flex-col-reverse pt-5 pb-10  lg:flex-row text-black justify-center px-10 lg:px-80 items-center-safe align-middle place-self-center self-center-safe  bg-gray-200 gap-10 lg:gap-50 ">
       
       {/* Text Content */}
       <div className="flex flex-col lg:w-1/2 px-4 lg:px-10">
@@ -22,15 +22,15 @@ export default function ThirdSection() {
           We mix traditional culture with Western culture to make just the right blend.
         </p>
 
-        <Link href="/" passHref>
-          <button className="bg-blue-500 w-max px-6 py-3 text-lg mt-6 hover:bg-blue-800 rounded-xl font-bold text-white">
+        <Link href="/" className="" passHref>
+          <button className="bg-blue-500  w-max px-6 py-3 text-lg mt-6 hover:bg-blue-800 rounded-xl font-bold text-white">
             LEARN MORE
           </button>
         </Link>
       </div>
 
       {/* Image */}
-      <div className="lg:w-1/2 p-50 rounded-xl bg-[url('https://brandmaina.com/stupid9.png')] bg-center bg-cover object-fill">
+      <div className="p-40 lg:w-100 lg:h-100 rounded-xl bg-[url('https://brandmaina.com/stupid9.png')] bg-center bg-cover ">
         
       </div>
     </div>
